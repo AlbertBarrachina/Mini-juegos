@@ -1,0 +1,1 @@
+System.out.println("·Jugar (1)\n·Informacion (2)\n·Mostrar puntuaciones (3)\n·Autor (4)\n·Version (4)\n·Salir (5)");
